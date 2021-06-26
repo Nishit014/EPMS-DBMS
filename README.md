@@ -21,7 +21,7 @@ EPMS is a database management system. In this employee management system we can 
 
 Cloning this repository:
 ```
-git clone 
+git clone https://github.com/Nishit014/EPMS.git
 ```
 Install the required packages in your environment by using pip.
 ```
