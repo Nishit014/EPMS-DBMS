@@ -1,8 +1,8 @@
-# EPMS
+# EPMS 📑
 
 EPMS is a database management system. In this employee management system we can add,update,mark shifts,view all employees,view working hours from the database.It is an gui application made using python and sqlite.
 
-# Tech Stacks
+# Tech Stacks 💻
 * **Language used: Python 3**
 * **Query Language used: Sqlite 3**
 * **Library:Tkinter**
@@ -17,7 +17,7 @@ EPMS is a database management system. In this employee management system we can 
 * **sqlite3**
 * **datetime**
 
-# Installation
+# Installation 
 
 Cloning this repository:
 ```
