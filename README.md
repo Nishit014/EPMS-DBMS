@@ -40,3 +40,11 @@ You are free to use this code for any purpose. If you have built anything intere
 
 # Note  
 Feel free to file a new issue with a respective title and description on the **Virtual-Drums**.  If you already found a solution to your problem, I would love to review your pull request!
+
+# Screenshots 
+
+<img width="1440" alt="Screenshot 2021-06-26 at 5 42 09 PM" src="https://user-images.githubusercontent.com/78468465/123512582-e2537400-d6a5-11eb-9ea7-be07b6256c85.png">
+
+<img width="1440" alt="Screenshot 2021-06-26 at 5 46 24 PM" src="https://user-images.githubusercontent.com/78468465/123512809-2b57f800-d6a7-11eb-8c4f-e75632fa3991.png">
+
+<img width="1440" alt="Screenshot 2021-06-26 at 5 50 22 PM" src="https://user-images.githubusercontent.com/78468465/123512829-49255d00-d6a7-11eb-8ea8-1a75bae7f327.png">
